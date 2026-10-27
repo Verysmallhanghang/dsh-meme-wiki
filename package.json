@@ -1,0 +1,8 @@
+{
+  "name": "dsh-meme-wiki",
+  "version": "1.0.0",
+  "description": "基于梗Wiki公开API的DSH查询工具插件",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {}
+}
