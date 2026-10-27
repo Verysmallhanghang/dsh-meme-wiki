@@ -1,12 +1,12 @@
 {
-  "name": "dsh-meme-wiki",
-  "version": "1.0.0",
+  "name": "dsh-cnmeme",
+  "version": "0.1.0",
+  "description": "DSH plugin: search memes from cnmeme.wiki public API",
+  "main": "lib/index.js",
   "type": "module",
-  "main": "index.js",
-  "files": ["index.js", "cordis.patch.yml"],
   "dsh": {
     "bundle": {
-      "patch": "./cordis.patch.yml"
+      "patch": "patches/bundle.yaml"
     }
   }
 }
