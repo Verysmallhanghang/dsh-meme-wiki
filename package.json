@@ -4,5 +4,8 @@
   "description": "基于梗Wiki公开API的DSH查询工具插件",
   "main": "index.js",
   "type": "module",
+  "dsh": {
+    "entry": "./index.js"
+  },
   "dependencies": {}
 }
